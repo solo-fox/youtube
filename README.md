@@ -1,12 +1,30 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+![Logo](screenshots/1.jpg)
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+# Youtube Clone
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Youtube Clone
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+## Technologies Used
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+- **React**: Frontend framework for building dynamic and interactive user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development and customization.
+- **vite** : a build tool that aims to provide a faster and leaner development experience for modern web projects
+## Screenshots
+
+![Screenshot 1](screenshots/1.jpg)
+![Screenshot 2](screenshots/2.jpg)
+![Screenshot 3](screenshots/3.jpg)
+![Screenshot 4](screenshots/4.jpg)
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd youtube`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
